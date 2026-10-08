@@ -36,6 +36,7 @@ A Bash-based DevOps mini project for system health monitoring, log analysis, app
 
 ## Project Structure
 
+```text
 automated-log-deployment-tool/
 ├── app/
 │   ├── app.py
@@ -50,6 +51,7 @@ automated-log-deployment-tool/
 │   └── menu.sh
 ├── .gitignore
 └── README.md
+```
 
 ## How to Run
 
