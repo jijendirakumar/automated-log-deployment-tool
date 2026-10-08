@@ -1,0 +1,6 @@
+logs/
+backups/
+__pycache__/
+*.pyc
+*.test
+*.safe
